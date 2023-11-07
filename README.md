@@ -1,6 +1,6 @@
 # Disease-prediction-Model
 
-This project is a Disease Prediction System that uses machine learning models to predict diseases based on input symptoms. It provides a user-friendly graphical interface where users can input symptoms, and the system predicts the likely disease using trained models.
+This is a Disease Prediction Model that uses machine learning models to predict diseases based on input symptoms. It provides a user-friendly graphical interface where users can input symptoms, and the system predicts the likely disease using trained models.
 
 ## Features
 
@@ -23,13 +23,13 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/disease-prediction-system.git
+   git clone https://github.com/rishii100/Disease-Prediction-Model.git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd disease-prediction-system
+   cd Disease-Prediction-Model
    ```
 
 3. Install dependencies:
@@ -43,7 +43,7 @@ Make sure you have the following installed:
 Run the main script to launch the application:
 
 ```bash
-python main.py
+python prediction.py
 ```
 
 Follow the on-screen instructions to input symptoms and use the prediction system.
@@ -55,19 +55,6 @@ Follow the on-screen instructions to input symptoms and use the prediction syste
 - `Testing.csv`: CSV file containing testing data for evaluating model accuracy.
 - `bg.jpg`: Background image used in the GUI.
 
-## Acknowledgments
-
-- The project is a part of [mention any course, tutorial, or inspiration].
-
 ## License
 
 This project is licensed under the [Your License] - see the [LICENSE.md](LICENSE.md) file for details.
-
-```
-
-Replace `[Your License]` with the appropriate license you choose for your project. If you don't have a specific license, you might consider using an open-source license like MIT or Apache 2.0. Also, remember to update the repository URL in the clone command with your actual repository URL.
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/disease-prediction-system.git
