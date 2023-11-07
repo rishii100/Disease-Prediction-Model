@@ -1,4 +1,4 @@
-# Disease-prediction-Model
+# Disease-Prediction-Model
 
 This is a Disease Prediction Model that uses machine learning models to predict diseases based on input symptoms. It provides a user-friendly graphical interface where users can input symptoms, and the system predicts the likely disease using trained models.
 
